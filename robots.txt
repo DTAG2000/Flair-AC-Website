@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flair-ac.co.uk/sitemap.xml
