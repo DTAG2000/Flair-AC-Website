@@ -646,6 +646,10 @@ footer a:hover {
     height: 48px;
 }
 
+.footer-badge.footer-logo.city-guilds img {
+    height: 40px;
+}
+
 .footer-badge svg {
     width: 22px;
     height: 22px;
