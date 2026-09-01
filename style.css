@@ -162,6 +162,23 @@ header {
 }
 
 /* ============================================
+   COUNTY BANNER (below nav)
+   ============================================ */
+
+.county-banner {
+    background-color: var(--accent-color);
+    color: white;
+    text-align: center;
+    padding: 0.55rem 1rem;
+    font-size: 0.9rem;
+    letter-spacing: 0.02em;
+}
+
+.county-banner strong {
+    font-weight: 600;
+}
+
+/* ============================================
    HERO SECTION (big welcome area)
    ============================================ */
 
